@@ -84,14 +84,3 @@ CyberOW provides **excellent native alignment** with NIST AI RMF 1.0, particular
 **References**  
 - NIST AI RMF 1.0 (January 2023) — https://doi.org/10.6028/NIST.AI.100-1  
 - NIST AI RMF Playbook (companion resource)
-
----
-
-This file is now part of your documentation. You can extend it later with more detailed subcategory mappings if needed.
-
-Would you like me to generate the next piece now? For example:
-- `src/cyberow/core/evidence_ledger.py` (Pydantic-based immutable ledger)
-- `docs/architecture.md` (full technical architecture)
-- Or a simple `nist_rmf_playbook_integration.py` stub
-
-Just tell me what to create next.
