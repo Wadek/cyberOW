@@ -1,0 +1,22 @@
+[project]
+name = "cyberow"
+version = "0.1.0"
+description = "One-Way Operating Way for AI-First Cybersecurity"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.8",
+    "jinja2>=3.1",
+    "cryptography>=43.0",
+    "structlog>=24.4",
+]
+
+[tool.uv]
+dev-dependencies = ["pytest", "ruff", "mypy", "black"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
