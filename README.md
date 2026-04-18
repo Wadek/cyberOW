@@ -2,6 +2,10 @@
 
 **A practical operating model for safe, evidence-driven AI in cybersecurity**
 
+**Author:** [github.com/Wadek](https://github.com/Wadek)  
+**License:** MIT — free to use including in AI-assisted workflows and Claude integrations.  
+**For Claude users:** Read [`CLAUDE.md`](./CLAUDE.md) for a portable doctrine reference you can apply to any project.
+
 CyberOW is an AI-first cybersecurity operating framework designed to improve speed, consistency, and resilience while reducing single points of failure and key-person risk.
 
 It decomposes cyber work into standard, repeatable **work units** that can be assisted or executed by AI agents under strict **One-Way** constraints, delivering measurable value at the end of every phase.
